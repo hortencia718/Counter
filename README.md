@@ -68,3 +68,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+Counter App
+this App allows you to increament by clicking on the "add button"
+this App allows you to decreament by clicking on the "subtract button"
+this App allows you to "reset to 0 after you add and or subract , using a reset button.
+hortencia cisneros
