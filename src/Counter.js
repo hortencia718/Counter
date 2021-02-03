@@ -2,12 +2,6 @@ import React, { useState} from 'react';
 
 
 
-
-
-// handleClick =() => {
-    // this.setCount
-// }
-
 function Counter (){
 
 

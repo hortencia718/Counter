@@ -1,8 +1,8 @@
 body {
   background-color: rgb(226, 233, 78);
-  color:rgb(255, 80, 141);
+  /* color:rgb(255, 80, 141); */
   text-align: center;
-  font-size: 30px;
+  /* font-size: 30px; */
   margin: 0;
   font-family: -apple-system, 'Ubuntu', BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
      'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
@@ -29,10 +29,16 @@ div.Counter, section.controls button {
   border-radius: 30px;
   border-width: 30px;
 }
-
+/* zero */
  p.count{
-  font-size: 50px;
+  font-size: 40px;
   font-weight: bold;
+ }
+
+ h1{
+   font-size:45px;
+   color:rgb(247, 72, 107);
+   text-align: center;
  }
  
 

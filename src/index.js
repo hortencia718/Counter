@@ -7,7 +7,7 @@ import Counter from './Counter';
 
 const buttons = <section id="controls"></section>
 
-ReactDOM.render( < Counter />
+ReactDOM.render( < App />
   ,
   document.getElementById('root')
 );
